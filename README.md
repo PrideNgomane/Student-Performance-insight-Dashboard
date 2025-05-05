@@ -23,6 +23,9 @@ This dataset can be used for:
 
 ## Usage
 To use this dataset, you can load it into your preferred data analysis tool (e.g., Python, R, Excel) for further exploration and analysis.
+Looker studio link( https://lookerstudio.google.com/reporting/4fb1225b-fc31-4b9c-97b0-cae80793a221/page/5dnIF )
+![image](https://github.com/user-attachments/assets/99a4d4ed-ea09-48b2-b68b-5cad0c4892df)
+
 
 ## License
 This dataset is provided for educational and research purposes.
